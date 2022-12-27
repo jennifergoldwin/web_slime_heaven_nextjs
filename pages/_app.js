@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/inline-script-id */
 import "../styles/globals.css";
 import Script from "next/script";
 function MyApp({ Component, pageProps }) {
